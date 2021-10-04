@@ -1,9 +1,9 @@
 name: Generate Datas
 
-on:
+on: View runs
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch: Run Workflow
 
 jobs:
   build:
