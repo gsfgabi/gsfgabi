@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Gabriella👋 
 
 - ⛪ Católica
-- 📚 Estudante de ADS - Análise e Desenvolvimento de Sistemas
+- 📚 Estudante de Engenharia de Software
 - 👩🏽‍💻 Futura Programadora
 - 😊 Eu gosto de Tecnologia, de assistir filmes, ler livros...
 
