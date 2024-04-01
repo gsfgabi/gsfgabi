@@ -2,7 +2,7 @@
 
 - ⛪ Católica
 - 📚 Estudante de Engenharia de Software
-- 👩🏽‍💻 Futura Programadora
+- 👩🏽‍💻 Desenvolvedora Web Junior
 - 😊 Eu gosto de Tecnologia, de assistir filmes, ler livros...
 
 ##
