@@ -2,16 +2,16 @@
 
 <img align="right" src="https://github.com/gsfgabi/gsfgabi/blob/main/programmer.gif" alt="Coder GIF" width="420" height="330">
 
-- ⛪ Católica
-- 📚 Estudante de Engenharia de Software
-- 👩🏽‍💻 Desenvolvedora Web Junior
-- 😊 Eu gosto de Tecnologia, de assistir filmes, ler livros...
+- <p>⛪ <em> Católica</em></p>
+- <p>💻<em> Cursando Engenharia de Software na <a href="https://unicv.edu.br">UniCV</a></em></p>
+- <p>👩🏽‍💻<em> Desenvolvedora Web Junior</em></p>
+- <p>😊<em>Eu gosto de Tecnologia, de assistir filmes, ler livros...</em></p>
 
 ##
 
 “Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.” 
 
-(São Francisco de Assis)
+<em>(São Francisco de Assis)</em>
 
 ##
 
