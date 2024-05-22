@@ -19,10 +19,6 @@
 
 **Tecnologias e Ferramentas**
 
-<a href="https://github.com/gsfgabi">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsfgabi&layout=compact&langs_count=7&theme=cobalt"/>
-</a>
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,6 +38,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ##
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/gsfgabi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsfgabi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsfgabi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Entre em contato comigo! 📭
 <div>
