@@ -29,6 +29,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white)
 <br>
 
 ### Eu estou estudando... 🧩
@@ -36,15 +39,20 @@
 ![Phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ##
 
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/gsfgabi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsfgabi&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsfgabi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsfgabi&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsfgabi&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 </div>
+
 
 ### Entre em contato comigo! 📭
 <div>
