@@ -3,8 +3,8 @@
 <img align="right" src="https://github.com/gsfgabi/gsfgabi/blob/main/programmer.gif" alt="Coder GIF" width="420" height="330">
 
 - <p>⛪ <em> Católica</em></p>
-- <p>💻<em> Cursando Engenharia de Software na <a href="https://unicv.edu.br">UniCV</a></em></p>
-- <p>👩🏽‍💻<em> Desenvolvedora Web Junior</em></p>
+- <p>💻<em> Engenheira de Software</em></p>
+- <p>👩🏽‍💻<em> Desenvolvedora Web Pleno</em></p>
 - <p>😊<em>Eu gosto de Tecnologia, de assistir filmes, ler livros...</em></p>
 
 ##
