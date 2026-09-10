@@ -47,12 +47,10 @@
 ##
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/gsfgabi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsfgabi&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsfgabi&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-</div>
 
+![](https://github-readme-stats.shion.dev/api?username=gsfgabi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gsfgabi&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gsfgabi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Entre em contato comigo! 📭
 <div>
