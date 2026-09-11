@@ -4,7 +4,7 @@ on:
   schedule:
     # Executa a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
