@@ -4,7 +4,7 @@
 
 **Desenvolvedora Web Pleno** · **Engenheira de Software**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1200&amp;color=BD93F9&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Laravel+%7C+Vue.js+%7C+Tailwind+CSS;APIs+REST+e+sistemas+web;Do+requisito+ao+c%C3%B3digo+em+produ%C3%A7%C3%A3o" alt="Laravel, Vue.js, Tailwind CSS e APIs REST" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1200&amp;color=BD93F9&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Laravel+12+%7C+Livewire+%7C+Angular;APIs+REST+e+regras+de+neg%C3%B3cio;Do+requisito+ao+c%C3%B3digo+em+produ%C3%A7%C3%A3o" alt="Laravel 12, Livewire, Angular e APIs REST" />
 
 <br />
 
@@ -38,25 +38,20 @@ Entre um deploy e outro, gosto de tecnologia, leitura e cinema — quase sempre 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gsfgabi/device-manager">Device Manager</a></h3>
-      <p>O inventário de celulares corporativos saiu da planilha: autenticação, isolamento por usuário, histórico com soft delete e API REST documentada.</p>
-      <p><code>Laravel 11</code> · <code>Angular 20</code> · <code>Sanctum</code> · <code>TypeScript</code></p>
-      <p><a href="https://github.com/gsfgabi/device-manager"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a></p>
+      <p>O inventário de celulares corporativos saiu da planilha: autenticação Sanctum, isolamento por dono com Policy, histórico com soft delete e API REST.</p>
+      <p><code>Laravel 12</code> · <code>Angular 20</code> · <code>Sanctum</code> · <code>TypeScript</code></p>
+      <p>
+        <a href="https://github.com/gsfgabi/device-manager"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a>
+        <a href="https://github.com/gsfgabi/device-manager/actions"><img src="https://github.com/gsfgabi/device-manager/actions/workflows/tests.yml/badge.svg" alt="Tests" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gsfgabi/transferencias-light">Transferências Light</a></h3>
-      <p>Arranjo de pagamentos com carteiras digitais, regras para comum e lojista, autorização externa, transações atômicas e notificações assíncronas.</p>
-      <p><code>Laravel 11</code> · <code>Livewire</code> · <code>Alpine.js</code> · <code>Tailwind</code> · <code>Docker</code></p>
-      <p><a href="https://github.com/gsfgabi/transferencias-light"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/gsfgabi/document-project">Chatbot Inteligente</a></h3>
-      <p>Chat sobre IA no navegador: Gemini quando há chave de API, motor local com aprendizado por feedback quando não há.</p>
-      <p><code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Gemini API</code></p>
+      <p>Arranjo de pagamentos com carteiras digitais, regras para comum e lojista, autorização externa testável e notificações assíncronas.</p>
+      <p><code>Laravel 12</code> · <code>Livewire</code> · <code>Alpine.js</code> · <code>Tailwind</code> · <code>Pest</code></p>
       <p>
-        <a href="https://github.com/gsfgabi/document-project"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a>
-        <a href="https://document-project.vercel.app"><img src="https://img.shields.io/badge/demo-282A36?style=flat-square&logo=vercel&logoColor=50FA7B" alt="Demo" /></a>
+        <a href="https://github.com/gsfgabi/transferencias-light"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a>
+        <a href="https://github.com/gsfgabi/transferencias-light/actions"><img src="https://github.com/gsfgabi/transferencias-light/actions/workflows/tests.yml/badge.svg" alt="Tests" /></a>
       </p>
     </td>
   </tr>
