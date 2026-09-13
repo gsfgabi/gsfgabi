@@ -77,7 +77,6 @@ Entre um deploy e outro, gosto de tecnologia, leitura e cinema — quase sempre 
       </td>
     </tr>
   </table>
-  <img src="https://streak-stats.demolab.com?user=gsfgabi&amp;theme=dracula&amp;hide_border=true" alt="Sequência de contribuições" />
 </div>
 
 ---
