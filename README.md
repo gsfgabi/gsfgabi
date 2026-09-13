@@ -55,6 +55,17 @@ Entre um deploy e outro, gosto de tecnologia, leitura e cinema — quase sempre 
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/gsfgabi/agent-lab">Agent Lab</a></h3>
+      <p>Agente com function calling visível: o modelo escolhe a ferramenta, o Node executa, o rastreio aparece ao lado. Não é um chatbot.</p>
+      <p><code>TypeScript</code> · <code>Node.js</code> · <code>Gemini</code> · <code>tool calling</code></p>
+      <p>
+        <a href="https://github.com/gsfgabi/agent-lab"><img src="https://img.shields.io/badge/codigo-282A36?style=flat-square&logo=github&logoColor=BD93F9" alt="Código" /></a>
+        <a href="https://github.com/gsfgabi/agent-lab/actions"><img src="https://github.com/gsfgabi/agent-lab/actions/workflows/tests.yml/badge.svg" alt="Tests" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
